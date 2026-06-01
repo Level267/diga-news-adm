@@ -1,0 +1,6 @@
+{
+  "name": "Painel ADM Simultâneo",
+  "description": "Painel administrativo para publicação simultânea de notícias em portal web e aplicativo móvel com auxílio de rascunhos inteligentes por Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
